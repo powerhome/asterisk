@@ -1,0 +1,8 @@
+This package uses git-buildpackage (with pristine-tar, without a patch
+queue).
+
+Documentation of gbp, git build package, is
+at http://honk.sigxcpu.org/projects/git-buildpackage/manual-html/gbp.html
+
+You find that doc also in /usr/share/doc/git-buildpackage/manual-html/gbp.html
+after installing the package  git-buildpackage

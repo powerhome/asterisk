@@ -1,0 +1,26 @@
+# upstream fixes
+hack-multiple-app-voicemail
+# Not used ATM. See comment in patch:
+#make-clean-fixes
+#
+#h323-no-deps-on-asterisk
+#h323-workaround-openh323-segfault
+
+astgenkey-security
+
+# bugfixes on top of everything
+sound_files
+#h323-extra-target
+mpglib
+enable_addons
+no_uname
+
+ilbc_disable
+astdatadir
+
+reenable
+smsq_enable.patch
+aelparse_enable.patch
+systemd.patch
+#test_framework.patch
+opus.patch

@@ -1,0 +1,7 @@
+usr/sbin
+usr/bin/asterisk-config-custom
+usr/share/asterisk/firmware
+usr/share/asterisk/keys
+usr/share/asterisk/conf
+usr/share/asterisk/documentation
+lib/systemd/system/asterisk.service
